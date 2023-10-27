@@ -1,4 +1,4 @@
-# <Avanti Bootcamp Activities>
+# Avanti Bootcamp Activities
 
 Ih this repository are all the activities and insights I had during the Avanti Bootcamp! 
 
