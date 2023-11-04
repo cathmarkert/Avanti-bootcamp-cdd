@@ -7,4 +7,6 @@ This repository contains all the activities and insights I had during the Avanti
 
 ## Index 
 - [Exploratory Analysis](https://github.com/cathmarkert/Avanti-bootcamp-cdd/blob/master/notebooks/01-exploratory_data_analysis.ipynb)
+
+- [Visualizing Data](https://github.com/cathmarkert/Avanti-bootcamp-cdd/blob/master/notebooks/02-visualizing_data.ipynb)
 ---
